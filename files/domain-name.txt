@@ -1,0 +1,4 @@
+# Domain name to use for this server. Gets baked in to the image
+# when the image is built. The domain name must be the last line in this file
+# and can not contain any leading or trailing whitespace.
+domain-1
